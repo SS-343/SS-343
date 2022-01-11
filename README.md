@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @grantstevens44. I`m a Freshman enrolled in Computer Science at Embry-Riddle Aeronautical University.
+- 👋 Hello, I’m @grantstevens44. I`m a Freshman enrolled in Information Science at the University of South Florida.
 - 👀 I’m interested in all things cyber security. IOT devices, Bluetooth, RFID, and physical penetration testing. 
 - 🌱 I’m currently learning Web hacking and systems exploitation via a cyber security club at my school.
 - 💞️ I’m looking to collaborate on ...(Anything, Inquire below!)
