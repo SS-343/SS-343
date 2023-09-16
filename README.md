@@ -1,9 +1,7 @@
-- 👋 Hello, I’m @grantstevens44. I`m a Freshman enrolled in Information Science at the University of South Florida.
-- 👀 I’m interested in all things cyber security. IOT devices, Bluetooth, RFID, and physical penetration testing. 
-- 🌱 I’m currently learning Web hacking and systems exploitation via a cyber security club at my school.
+- 👋 Hello, I’m @grantstevens44. I`m a Junior enrolled in Cybersecurity at the University of South Florida.
+- 👀 I’m interested in all things cyber security. Web exploitation, Malware analysis, IOT devices, Bluetooth, RFID, and physical penetration testing to name a few!
 - 💞️ I’m looking to collaborate on ...(Anything, Inquire below!)
-- 📫 How to reach me:
-Email:grant.stevens72@aol.com
+- 📫 How to reach me -> Email:grant.stevens72@aol.com
 
 
 <!---
